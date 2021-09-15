@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Gender Age Detection system](https://github.com/SwarupDeb/Gender-Age-Detection-system.git)** & **[Tower Defense](https://github.com/SwarupDeb/Tower-Defense.git)**
+- 🔭 I’m currently working on **[Gender Age Detection system](https://github.com/SwarupDeb/Gender-Age-Detection-system.git)** & **[End_Rush](https://github.com/SwarupDeb/End_Rush.git)**
 
 - 🌱 I’m currently learning **Game Devlopment**
 
