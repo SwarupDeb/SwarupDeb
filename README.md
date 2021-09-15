@@ -1,4 +1,4 @@
-<a href="#"><img style="margin-left: auto; margin-right: auto; width: 50%;" width="300" height="250" src="https://media.giphy.com/media/3o7aDdSjGlUbmwFCQo/giphy.gif?cid=ecf05e47gadp3imvwy0lrd1fljv97bcnjon84ubuhespl5e7&rid=giphy.gif&ct=g"/></a>
+<a href="#"><img style="margin-left: auto; margin-right: auto; width: 50%;" width="300" height="250" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47q75rxz0hvtdu0pk9y100eels9hewqpb3sfh8k7wb&rid=giphy.gif&ct=g"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarup</h1>
 <h3 align="center">I'm a passionate Game Developer from India.</h3>
 
