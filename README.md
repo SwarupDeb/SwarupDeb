@@ -1,4 +1,4 @@
-<a href="#"><img align='centre' width="300" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="175px"/></a>
+<a href="#"><img align='centre' width="300" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarup</h1>
 <h3 align="center">I'm a passionate Game Developer from India.</h3>
