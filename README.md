@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Gender Age Detection system](https://github.com/SwarupDeb/Gender-Age-Detection-system.git)
+- 🔭 I’m currently working on **Nothing
 
-- 🌱 I’m currently learning **Game Devlopment**
-
-- 👯 I’m looking to collaborate on **OpenSource game Projects**
+- 🌱 I’m currently learning **Web Devlopment**
 
 
 - 📫 How to reach me **swarupdeb046@gmail.com**
