@@ -1,6 +1,6 @@
 <!-- Sci-Fi Header Image -->
 <p align="center">
-  <iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="100%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+   src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="100%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
 
 <!-- Title -->
