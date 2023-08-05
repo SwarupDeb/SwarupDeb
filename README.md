@@ -1,6 +1,6 @@
 <!-- Sci-Fi Header Image -->
 <p align="center">
-  <img width="100%" <iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
+  <img width="100%" <iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></p>
 
 <!-- Title -->
 <h1 align="center">Greetings, Traveller! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Swarup</h1>
