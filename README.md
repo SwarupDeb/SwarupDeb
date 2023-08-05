@@ -1,13 +1,12 @@
 <!-- Sci-Fi Header Image -->
 <p align="center">
-  <img width="100%" src="https://your-sci-fi-header-image-url.com" alt="Sci-Fi Header">
-</p>
+  <img width="100%" <iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
 
 <!-- Title -->
 <h1 align="center">Greetings, Traveller! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Swarup</h1>
 
 <!-- Short Introduction -->
-<h3 align="center">A Passionate Game Developer from India 🚀</h3>
+<h3 align="center">A Passionate Web Developer & Game Developer from India 🚀</h3>
 
 <!-- About Me -->
 ## 🌌 About Me
@@ -55,5 +54,5 @@
 <!-- Footer -->
 <p align="center">
   <!-- Add any footer content or acknowledgments -->
-  Made with 🚀 in the Sci-Fi Universe
+  Made by 🚀 Aliens
 </p>
