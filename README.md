@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupdeb&show_icons=true&locale=en&layout=compact" alt="swarupdeb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupdeb&show_icons=true&locale=en" alt="swarupdeb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupdeb&show_icons=true&locale=en&theme=light" alt="swarupdeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupdeb&" alt="swarupdeb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupdeb&theme=light" alt="swarupdeb" /></p>
