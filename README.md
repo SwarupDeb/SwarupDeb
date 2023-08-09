@@ -1,76 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Swarup Deb - Web Developer & Game Developer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-    }
-    .header {
-      background-color: #1f1f1f;
-      color: #ffffff;
-      text-align: center;
-      padding: 2rem 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2rem;
-      background-color: #ffffff;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-      margin-top: -4rem;
-    }
-  </style>
-</head>
-<body>
-  <div class="header">
-    <h1>Swarup Deb</h1>
-    <p>Passionate Web Developer & Game Developer</p>
-  </div>
-  <div class="container">
-    <h2>Skills</h2>
-    <ul>
-      <li>Java</li>
-      <li>C++ Scripting</li>
-      <li>C# Scripting</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>Node.js</li>
-      <li>React.js</li>
-      <li>Unity3D</li>
-      <li>Unreal Engine</li>
-      <li>Adobe After Effects</li>
-      <li>Davinci Resolve</li>
-    </ul>
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=swarupdeb&show_icons=true&count_private=true&hide=stars&theme=dark" alt="GitHub Stats">
-    <h2>Connect with Me</h2>
-    <p>Let's connect and collaborate:</p>
-    <ul>
-      <li><a href="https://github.com/swarupdeb">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/swarupdeb">LinkedIn</a></li>
-      <li><a href="https://twitter.com/SwarupDeb_">Twitter</a></li>
-      <li><a href="https://www.swarupdeb.com">Personal Website</a></li>
-    </ul>
-    <h2>Projects</h2>
-    <p>Here are some of my highlighted projects:</p>
-    <ol>
-      <li>Web Portfolio - A personal website showcasing my projects, skills, and experiences.</li>
-      <li>GameName XYZ - An exciting game developed using Unity3D.</li>
-      <li>React Web App - A web application built with React.js.</li>
-      <li>Unreal Engine Showcase - A collection of projects created using Unreal Engine.</li>
-    </ol>
-    <p>Feel free to explore these projects and delve into the code to understand my capabilities.</p>
-    <h2>Views and Followers</h2>
-    <img src="https://komarev.com/ghpvc/?username=swarupdeb" alt="Profile Views">
+<p align="center">
+  <img src="https://github.com/swarupdeb/awesome-profile-readme-templates/blob/master/assets/header.png" alt="Header">
+</p>
+
+<p align="center">
+  <samp>
+    𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎! 👋 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! I'm Swarup Deb, a 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 with a 𝚜𝚝𝚛𝚘𝚗𝚐 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚐𝚊𝚖𝚒𝚗𝚐.
+
+    𝙸 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚑𝚎 𝚖𝚢𝚜𝚝𝚎𝚛𝚢 𝚘𝚏 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚗𝚞𝚛𝚝𝚞𝚛𝚎 𝚖𝚢 𝚐𝚊𝚖𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜. 𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚑𝚎 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚎 𝚠𝚘𝚛𝚕𝚍𝚜 𝚘𝚏 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜.
+
+    𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎, 𝚊𝚗𝚍 𝚎𝚗𝚐𝚊𝚐𝚎 𝚒𝚗 𝚜𝚘𝚖𝚎 𝚒𝚖𝚊𝚐𝚒𝚗𝚊𝚝𝚒𝚟𝚎 𝚖𝚒𝚗𝚍𝚜.
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swarupdeb&show_icons=true&count_private=true&hide=stars&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <a href="https://github.com/swarupdeb">
     <img src="https://img.shields.io/github/followers/swarupdeb?style=social" alt="GitHub Followers">
-  </div>
-</body>
-</html>
+  </a>
+  <a href="https://www.linkedin.com/in/swarupdeb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/SwarupDeb_">
+    <img src="https://img.shields.io/twitter/follow/SwarupDeb_?style=social" alt="Twitter">
+  </a>
+</p>
