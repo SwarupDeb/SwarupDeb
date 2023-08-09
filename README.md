@@ -1,4 +1,4 @@
-![Header](./Header.png)
+![MasterHead](./Header.png)
 <h1 align="center">Hi 👋, I'm Swarup Deb</h1>
 <h3 align="center">A passionate web developer and game developer</h3>
 <img alt="Coding" width="400" src="https://tenor.com/b2pI6.gif">
