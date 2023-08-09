@@ -1,47 +1,26 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://your-image-url.com" alt="Header Image" width="1000px">
-</div>
+<h1 align="center">Hi 👋, I'm Swarup Deb</h1>
+<h3 align="center">A passionate web developer and game developer</h3>
 
-<!-- Introduction -->
-## 👋 Hello, fellow traveler! 👾
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupdeb&label=Profile%20views&color=0e75b6&style=flat" alt="swarupdeb" /> </p>
 
-Welcome to my cybernetic corner of the codeverse! I am Swarup Deb, a digital alchemist weaving dreams into lines of code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupdeb" alt="swarupdeb" /></a> </p>
 
-<!-- Animated GIF -->
-<div align="center">
-  <img src="https://your-animated-gif-url.com" alt="Animated GIF" width="400px">
-</div>
+- 🌱 I’m currently learning **Web Development**
 
-<!-- Skills -->
-### 🛠️ My Arsenal of Technologies:
-<!-- Skills List... -->
+- 📫 How to reach me **swarupdeb046@gmail.com**
 
-<!-- GitHub Stats -->
-## 📊 GitHub Matrix:
+- ⚡ Fun fact **A digital alchemist weaving dreams into lines of code.**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarupdeb&show_icons=true&count_private=true&hide=stars&theme=dark)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/swarup04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarup04" height="30" width="40" /></a>
+</p>
 
-<!-- Connect with Me -->
-### 🌐 Connect with Me in the Metaverse:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-[GitHub](https://github.com/swarupdeb) • [LinkedIn](https://www.linkedin.com/in/swarupdeb) • [Twitter](https://twitter.com/SwarupDeb_) • [Personal Website](https://www.swarupdeb.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupdeb&show_icons=true&locale=en&layout=compact" alt="swarupdeb" /></p>
 
-<!-- Projects -->
-## 🚀 My Epic Quests:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupdeb&show_icons=true&locale=en" alt="swarupdeb" /></p>
 
-1. **Web Portfolio**: Unveil the virtual tapestry of my creations, a holographic record of my web and game development journey.
-
-<!-- More projects... -->
-
-<!-- Animated SVG -->
-<div align="center">
-  <img src="https://your-animated-svg-url.com" alt="Animated SVG" width="300px">
-</div>
-
-<!-- Views and Followers -->
-## 🌌 Perception Count:
-![Profile Views](https://komarev.com/ghpvc/?username=swarupdeb)
-![GitHub Followers](https://img.shields.io/github/followers/swarupdeb?style=social)
-
-Thank you for embarking on this voyage through my digital cosmos. Let's collaborate and code together to shape the future! 🚀🌌
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupdeb&" alt="swarupdeb" /></p>
