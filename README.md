@@ -1,7 +1,8 @@
 ![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Swarup Deb</h1>
 <h3 align="center">A passionate web developer and game developer</h3>
-<img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" alt="swarupdeb" />
+<img align="left" alt="Coding" width="400" src="https://tenor.com/view/coding.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on Nothing<br>👯 I’m looking to collaborate on Website<br>🤝 I’m looking for help with Web development<br>🌱 I’m currently learning Web development<br>💬 Ask me about Tech<br>⚡ Fun fact A digital alchemist weaving dreams into lines of code.
 
